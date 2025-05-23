@@ -31,6 +31,9 @@ Este proyecto usa:
 
     ```Se  ejecuta en ParcialT3 aplication main```
 
+
+## Patron MVC(Modelo Vista Controlador)
+
 En este caso Modelos Es la capa donde se trabaja con los datos, por tanto contendrá mecanismos para acceder a la información y también para actualizar su estado. Los datos los tendremos habitualmente en una base de datos, por lo que en los modelos tendremos todas las funciones que accederán a las tablas y harán los correspondientes selects, updates, inserts, etc.
 
 En la vista generalmente trabajamos con los datos, sin embargo, no se realiza un acceso directo a éstos. Las vistas requerirán los datos a los modelos y ellas se generará la salida, tal como nuestra aplicación requiera.
