@@ -5,7 +5,7 @@
 - Juan Esteban Cely Lopez CVDS-G3
 
 #Diagrama de Arquitectura 
-![image](https://github.com/user-attachments/assets/9f7f71b7-e1ce-44fd-adfe-ff8a3c7adc03)
+![image](https://github.com/user-attachments/assets/fbaadb2e-cd3d-4da8-87f0-5dd3c29bd5d5)
 
 ## Tecnologías Utilizadas
 
